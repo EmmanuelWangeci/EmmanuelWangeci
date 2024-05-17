@@ -1,4 +1,4 @@
-![logo](Github banner.jpg)
+![logo]((https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.jpg))
 <h1 align="center">Hi 👋, I'm Emmanuel Juma</h1>
 <h3 align="center">A passionate UI/UX Designer & a frontend developer from Kenya</h3>
 
