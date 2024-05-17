@@ -1,4 +1,4 @@
-![logo]((https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.jpg))
+![logo](https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.jpg)(https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Juma</h1>
 <h3 align="center">A passionate UI/UX Designer & a frontend developer from Kenya</h3>
 
