@@ -1,12 +1,12 @@
 ![logo](https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Emmanuel Juma</h1>
-<h3 align="center">A passionate UI/UX Designer & a frontend developer from Kenya</h3>
+<h3 align="center">Web Developer | UI/UX Designer | CEO of BrandBoulevard Studios</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelwangeci&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelwangeci" /> </p>
 
-- 🌱 I’m currently learning **PHP(Yii Framework)**
+- 🌱 As a skilled Web Developer and UI/UX Designer from Kenya, I specialize in crafting engaging, user-centered digital experiences that bring brands to life. With a background in both frontend and backend development, I leverage my expertise in modern web technologies and design principles to deliver solutions that are not only visually captivating but also highly functional. As the CEO and Lead Designer at BrandBoulevard Studios, I am dedicated to helping businesses communicate their unique stories through innovative design and strategic digital experiences.)**
 
 - 📫 How to reach me **emmanuelangeci@gmail.com**
 
