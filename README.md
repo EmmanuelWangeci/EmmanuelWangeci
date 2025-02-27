@@ -27,7 +27,7 @@ I'm a **Web Developer** and **UI/UX Designer** passionate about crafting engagin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://wwwemmanuel-wangeci-73626b28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwwemmanuel-wangeci-73626b28b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-wangeci-73626b28b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwwemmanuel-wangeci-73626b28b/" height="30" width="40" /></a>
 <a href="https://fb.com/mremmanueljuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mremmanueljuma" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuel_wangeci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_wangeci" height="30" width="40" /></a>
 </p>
