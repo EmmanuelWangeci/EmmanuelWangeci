@@ -1,5 +1,5 @@
 
-![logo](https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.jpg)
+![logo](https://github.com/EmmanuelWangeci/EmmanuelWangeci/blob/main/Github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Emmanuel Wangeci</h1>
 <h3 align="center">Web Developer | UI/UX Designer | Graphics Designer</h3>
